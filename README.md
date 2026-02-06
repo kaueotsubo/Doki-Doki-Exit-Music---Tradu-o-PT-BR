@@ -28,23 +28,23 @@ Assim como o jogo base, este mod contém temas pesados que podem não ser adequa
 
 Siga os passos abaixo para instalar a tradução:
 
-1.  Tenha uma cópia limpa de **Doki Doki Literature Club** instalada no seu computador.
-2.  Baixe os arquivos deste repositório (clique em `Code` > `Download ZIP`).
-3.  Vá até a pasta onde o DDLC está instalado.
-4.  Abra a pasta `game` do DDLC.
-5.  Copie os arquivos `.rpy` (como `script-exitmusic.rpy`, etc.) deste repositório e cole dentro da pasta `game`, substituindo os arquivos existentes se solicitado.
-6.  Abra o jogo e divirta-se!
+1. Tenha uma cópia limpa de **Doki Doki Literature Club** instalada no seu computador.
+2. Baixe os arquivos deste repositório (clique em `Code` > `Download ZIP`).
+3. Vá até a pasta onde o DDLC está instalado.
+4. Abra a pasta `game` do DDLC.
+5. Copie os arquivos `.rpy` (como `script-exitmusic.rpy`, `poems.rpy`, etc.) deste repositório e cole dentro da pasta `game`, substituindo os arquivos existentes se solicitado.
+6. Abra o jogo e divirta-se!
 
 ## 🛠️ Detalhes da Tradução
 
-* **História Principal:** 100% Traduzida
-* **Poemas:** 100% Traduzidos/Adaptados
-* **Menus e Interface:** 100% Traduzidos
-* **Revisão:** [Seu Nome ou "Em andamento" se ainda for revisar]
+* **História Principal:** ✅ 100% Traduzida
+* **Poemas:** ✅ 100% Traduzidos (Incluindo poemas especiais e glitchs)
+* **Menus e Interface:** ⚠️ Parcialmente (Menus principais mantidos no original para compatibilidade)
+* **Revisão:** Em andamento
 
 ## 🤝 Créditos
 
-* **Tradução PT-BR:** [Seu Nome / Seu Nick]
+* **Tradução PT-BR:** Kauê Otsubo / Otsubo
 * **Criadores Originais do Mod:** Oliver Norton / Exit Music Team
 * **Doki Doki Literature Club:** Dan Salvato & Team Salvato
 

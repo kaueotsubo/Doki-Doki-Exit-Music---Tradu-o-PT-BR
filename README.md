@@ -8,7 +8,7 @@ Tradução completa para Português do Brasil do mod **Doki Doki Exit Music** (V
 
 ## 📥 Download
 
-[CLIQUE AQUI PARA BAIXAR A TRADUÇÃO COMPLETA (v1.1)](https://github.com/kaueotsubo/Doki-Doki-Exit-Music---Tradu-o-PT-BR/releases/tag/1.0)
+[CLIQUE AQUI PARA BAIXAR A TRADUÇÃO COMPLETA (v1.1)](https://github.com/kaueotsubo/Doki-Doki-Exit-Music---Tradu-o-PT-BR/releases/tag/1.1)
 
 > **Aviso:** Este é um mod feito por fãs e não é afiliado ao Team Salvato. Você deve ter completado o jogo original Doki Doki Literature Club antes de jogar este mod. Baixe o jogo original em: [ddlc.moe](http://ddlc.moe).
 

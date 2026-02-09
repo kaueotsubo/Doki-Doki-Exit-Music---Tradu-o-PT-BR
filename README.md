@@ -1,14 +1,14 @@
 # Doki Doki Exit Music - Tradução PT-BR 🇧🇷
 
 ![Status](https://img.shields.io/badge/Status-Completo-green)
-![Versão](https://img.shields.io/badge/Versão-1.0-blue)
+![Versão](https://img.shields.io/badge/Versão-1.1-blue)
 ![Lang](https://img.shields.io/badge/Linguagem-Ren'Py-red)
 
 Tradução completa para Português do Brasil do mod **Doki Doki Exit Music** (Versão Clássica/Original), um dos mods mais famosos e emocionantes para *Doki Doki Literature Club*.
 
 ## 📥 Download
 
-[CLIQUE AQUI PARA BAIXAR A TRADUÇÃO COMPLETA (v1.0)](https://github.com/kaueotsubo/Doki-Doki-Exit-Music---Tradu-o-PT-BR/releases/tag/1.0)
+[CLIQUE AQUI PARA BAIXAR A TRADUÇÃO COMPLETA (v1.1)](https://github.com/kaueotsubo/Doki-Doki-Exit-Music---Tradu-o-PT-BR/releases/tag/1.0)
 
 > **Aviso:** Este é um mod feito por fãs e não é afiliado ao Team Salvato. Você deve ter completado o jogo original Doki Doki Literature Club antes de jogar este mod. Baixe o jogo original em: [ddlc.moe](http://ddlc.moe).
 
